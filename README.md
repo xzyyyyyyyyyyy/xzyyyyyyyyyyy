@@ -1,6 +1,6 @@
 <!-- 欢迎区 -->
 <h1 align="center">Hi 👋, 我是 i</h1>
-<p align="center">湖北大学在校生 · 正在完善 湖北大学云 平台开发 · 热爱前端与移动开发 · 喜欢音乐 & 吉他 🎸</p>
+<p align="center">湖北大学在校生 · 热爱前端与移动开发 · 喜欢音乐 & 吉他 🎸</p>
 
 <!-- 快速链接 -->
 <p align="center">
@@ -19,22 +19,19 @@
 
 <!-- 关于我 -->
 ### 关于我
-- 🔭 目前：参与并完善「湖北大学云」开发与维护
-- 🌱 正在学习：Vue / React / 高级 Flutter / Java / Next.js
+- 🌱 正在学习：Vue / React /Flutter / Java / Next.js
 - 💡 技能简要：C · Docker · Linux · 基础前端（HTML/CSS/JS）
-- 🎵 兴趣爱好：音乐、吉他（业余弹唱）
+- 🎵 兴趣爱好：音乐、吉他（业余）
 
 ---
 
 <!-- 技能 -->
-### 技能（部分）
+### 技能
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-5382a1?style=flat&logo=java&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 ---
@@ -42,11 +39,8 @@
 <!-- 动态统计卡 -->
 ### GitHub 统计
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xzyyyyyyyyyyy&show_icons=true&theme=tokyonight" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzyyyyyyyyyyy&layout=compact&theme=tokyonight" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzyyyyyyyyyyy&layout=compact&theme=default" />
 </p>
-
-（以上统计卡由第三方服务生成；若需更换主题或移除其中一张告诉我）
 
 ---
 
